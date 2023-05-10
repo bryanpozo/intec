@@ -46,6 +46,7 @@
     - Francisco Mesa - 1104528
     - Eduardo Hernández - 1102911
     - Wancel Javier Ferreras - 1107672
+    - Bryan Manuel Medina - 1094168
 
 ## Plan de Trabajo
 
