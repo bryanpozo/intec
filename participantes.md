@@ -46,7 +46,7 @@
     - Francisco Mesa - 1104528 (**Pandas** (Python))
     - Eduardo Hernández - 1102911
     - Wancel Javier Ferreras - 1107672
-    - Bryan Medina - 1094168
+    - Bryan Medina - 1094168 (Django)
   - **Equipo Rafael - Tema1: BBDD Columnares** __Tema2: Soluciones enlatadas - Odoo__
     - Rafael Espinal - 1102817 (Next.JS)
     - Fernando Grullon - 1094013
